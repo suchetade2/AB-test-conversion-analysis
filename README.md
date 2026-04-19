@@ -1,5 +1,10 @@
 # A/B Test Analysis — E-Commerce Landing Page
 
+## 📓 View Full Notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_COLAB_LINK_HERE](https://colab.research.google.com/drive/1mosg4M_CQnXAAMA2G3lM2QMwqOTZA9mE?usp=sharing))
+
+
 ## Business Question
 Did the new landing page design improve user conversion rates, 
 or was the observed difference due to random chance?
@@ -30,8 +35,3 @@ Python, Pandas, NumPy, SciPy, Statsmodels, Matplotlib, Seaborn
 
 ## Dataset
 [AB Testing Dataset — Kaggle](https://www.kaggle.com/datasets/zhangluyuan/ab-testing)
-
-
-## 📓 View Full Notebook
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_COLAB_LINK_HERE](https://colab.research.google.com/drive/1mosg4M_CQnXAAMA2G3lM2QMwqOTZA9mE?usp=sharing))
