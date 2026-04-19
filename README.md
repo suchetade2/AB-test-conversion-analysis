@@ -30,3 +30,8 @@ Python, Pandas, NumPy, SciPy, Statsmodels, Matplotlib, Seaborn
 
 ## Dataset
 [AB Testing Dataset — Kaggle](https://www.kaggle.com/datasets/zhangluyuan/ab-testing)
+
+
+## 📓 View Full Notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_COLAB_LINK_HERE](https://colab.research.google.com/drive/1mosg4M_CQnXAAMA2G3lM2QMwqOTZA9mE?usp=sharing))
