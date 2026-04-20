@@ -2,7 +2,7 @@
 
 ## 📓 View Full Notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1mosg4M_CQnXAAMA2G3lM2QMwqOTZA9mE?usp=sharing])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mosg4M_CQnXAAMA2G3lM2QMwqOTZA9mE?usp=sharing)
 
 
 ## Business Question
