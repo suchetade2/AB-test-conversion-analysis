@@ -28,8 +28,16 @@ Python, Pandas, NumPy, SciPy, Statsmodels, Matplotlib, Seaborn
 
 ## Key Visualizations
 
+### Conversion Rates
 ![Conversion Rates](conversion_rates.png)
-![Daily Trend](daily_conversion.png)
+
+### Daily Conversion Trend
+![Daily Conversion](daily_conversion.png)
+
+### Hourly Conversion Trend
+![Hourly Conversion](hourly_conversion.png)
+
+### Z-Test Distribution
 ![Z Distribution](z_distribution.png)
 
 
